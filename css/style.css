@@ -1,0 +1,17 @@
+#webcam-container{
+	height: 200px;
+	width: 200px;
+	background: grey;
+}
+#label-container{
+	height: 36px;
+}
+#all{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+#intro{
+	text-align: center;
+}
